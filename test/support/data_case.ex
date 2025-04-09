@@ -23,6 +23,8 @@ defmodule Cooperation.DataCase do
       import Ecto.Changeset
       import Ecto.Query
       # import Cooperation.DataCase
+
+      @moduletag :backend
     end
   end
 
