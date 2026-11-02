@@ -4,4 +4,4 @@
 # untangle = "~> 0.5"
 # needle = "~> 0.9"
 
-absinthe = "~> 1.10.1"
+absinthe = "~> 1.12"
